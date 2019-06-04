@@ -232,31 +232,6 @@
       "sale_price": "22.99 USD",
       "sale_price_effective_date": "07/23/2019",
       "item_group_id": "DB_GROUP_4"
-    },
-    {
-      "id": "DB_11",
-      "title": "Dog Bowl In Yellow",
-      "ios_url": "example-ios://electronic/db_11",
-      "ios_app_store_id": 123,
-      "ios_app_name": "Electronic Example iOS",
-      "android_url": "example-android://electronic/db_11",
-      "android_package": "com.electronic.example",
-      "android_app_name": "Electronic Example Android",
-      "windows_phone_url": "example-windows://electronic/db_11",
-      "windows_phone_app_id": "64ec0d1b-5b3b-4c77-a86b-5e12d465edc9",
-      "windows_phone_app_name": "Electronic Example Windows",
-      "description": "Tasty treats for all dogs",
-      "google_product_category": "Animals > Food",
-      "product_type": "Food > Treats",
-      "link": "http://www.example.com/bowls/db-2.html",
-      "image_link": "https://picsum.photos/1089",
-      "condition": "new",
-      "availability": "out of stock",
-      "price": "39.99 USD",
-      "sale_price": "32.99 USD",
-      "sale_price_effective_date": "07/24/2019",
-      "brand": "Example",
-      "item_group_id": "DB_GROUP_4"
     }
   ]
 }
